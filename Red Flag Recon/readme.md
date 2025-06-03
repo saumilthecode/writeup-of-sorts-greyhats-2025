@@ -36,4 +36,16 @@ Putting this hash into github leads to the exact commit which he showed in the p
  
 so the flag is somewhere inside [here](https://github.com/Brainstorm-Nonsense/chal-collection/commit/dc3b9d7de40686b9895438e80ae4912a0682d387)
 
-so after locally cloning it and using GitKraken to look through iit 
+so after locally cloning it and using GitKraken to look through it, i realised theres batshit
+
+![](https://github.com/saumilthecode/writeup-of-sorts-greyhats-2025/blob/main/Red%20Flag%20Recon/SCR-20250603-jzrh.png?raw=true)
+
+this bugger clearly has better cybersecurity then a gopher. 
+
+So going back to the twitter post, he mentioned something about a private fork.
+
+after consulting chatgpt i got absolutely bamboozled and didnt figure it out
+
+So after the fact that the org writeups dropped, we were supposed to use TruffleHog to find hidden hashes which i stil cant figure out how to use trufflehog so if anyone finds out lmk on discord @im_too_sad_to_think_of_anything
+
+but im stil hoping the first part of my solve by using the hash was unique enough to get moolah <3
