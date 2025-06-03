@@ -18,3 +18,16 @@ Clealry the author wants us to check out the twitter which is x.com/ducati777_
 ![](https://github.com/saumilthecode/writeup-of-sorts-greyhats-2025/blob/main/Red%20Flag%20Recon/SCR-20250603-jwjs.png?raw=true)
 
 as visible from the ctf style "flag" in his bio hes clerly related and not some random dude on tiktok who shares the same handle (sherlock lead me to it dont ask why i even bothered)
+
+![](https://raw.githubusercontent.com/saumilthecode/writeup-of-sorts-greyhats-2025/refs/heads/main/Red%20Flag%20Recon/Screenshot_20250601_123351.webp)
+
+so following back on the twitter, theres not much of interest other then a mentioned github repo which persumably has the key.
+
+So the only lead is to follow this picture of the github repo where the commit hash is visible. And as we all know, COMMIT HASES ARE UNIQUE NO TWO HASHES ARE THE SAME!!!!!!
+
+so following the picture (attached)
+![](https://pbs.twimg.com/media/GpXtG9UbYAAkAPm?format=jpg&name=4096x4096)
+
+Shows the hash `dc3b9d7`
+
+Putting this hash into github leads to the exact commit
