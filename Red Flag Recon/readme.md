@@ -11,8 +11,10 @@ So cutting to the chase, you'd need to first start by checking the GreyCTF insta
 
 follow the `ducati777__` leads to this
 
-image placeholder
-
+![](https://github.com/saumilthecode/writeup-of-sorts-greyhats-2025/blob/main/Red%20Flag%20Recon/SCR-20250603-jwav.png?raw=true)
 
 Clealry the author wants us to check out the twitter which is x.com/ducati777_
 
+![](https://github.com/saumilthecode/writeup-of-sorts-greyhats-2025/blob/main/Red%20Flag%20Recon/SCR-20250603-jwjs.png?raw=true)
+
+as visible from the ctf style "flag" in his bio hes clerly related and not some random dude on tiktok who shares the same handle (sherlock lead me to it dont ask why i even bothered)
