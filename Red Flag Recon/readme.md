@@ -24,6 +24,8 @@ as visible from the ctf style "flag" in his bio hes clerly related and not some 
 so following back on the twitter, theres not much of interest other then a mentioned github repo which persumably has the key.
 
 So the only lead is to follow this picture of the github repo where the commit hash is visible. And as we all know, COMMIT HASES ARE UNIQUE NO TWO HASHES ARE THE SAME!!!!!!
+(image related to github)
+![](https://github.com/saumilthecode/writeup-of-sorts-greyhats-2025/blob/main/Red%20Flag%20Recon/1733953236922.jpeg?raw=true)
 
 so following the picture (attached)
 ![](https://pbs.twimg.com/media/GpXtG9UbYAAkAPm?format=jpg&name=4096x4096)
