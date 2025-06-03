@@ -30,4 +30,10 @@ so following the picture (attached)
 
 Shows the hash `dc3b9d7`
 
-Putting this hash into github leads to the exact commit
+Putting this hash into github leads to the exact commit which he showed in the picture 
+
+![](https://github.com/saumilthecode/writeup-of-sorts-greyhats-2025/blob/main/Red%20Flag%20Recon/SCR-20250603-jyjr.png?raw=true)
+ 
+so the flag is somewhere inside [here](https://github.com/Brainstorm-Nonsense/chal-collection/commit/dc3b9d7de40686b9895438e80ae4912a0682d387)
+
+so after locally cloning it and using GitKraken to look through iit 
