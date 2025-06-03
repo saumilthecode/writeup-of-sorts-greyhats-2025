@@ -6,3 +6,13 @@ chal :
 >Note: There is only one flag in this challenge. If it fits the flag format grey{...}, you've likely got it!
 
 So cutting to the chase, you'd need to first start by checking the GreyCTF instagram where clicking on the first post results in this comment from ``ducati777__``
+
+![](https://github.com/saumilthecode/writeup-of-sorts-greyhats-2025/blob/main/Red%20Flag%20Recon/SCR-20250603-jvln.jpeg?raw=true)
+
+follow the `ducati777__` leads to this
+
+image placeholder
+
+
+Clealry the author wants us to check out the twitter which is x.com/ducati777_
+
