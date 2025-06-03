@@ -71,3 +71,7 @@ grey{how_i_swear_you_shouldve_had_0_knowledge}
 
 
 and the obligatory 
+
+![](https://github.com/saumilthecode/writeup-of-sorts-greyhats-2025/blob/main/Idk/images.png?raw=true)
+
+tanks for reading <3
