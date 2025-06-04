@@ -14,7 +14,7 @@ As a very very interested brainrot connoisseur i am qiute in dept with the brain
 (video related)
 
 <video controls width="600">
-  <source src="https://github.com/saumilthecode/writeup-of-sorts-greyhats-2025/raw/main/Tung%20Tung%20Tung%20Sahur/ScreenRecording_04-08-2025%2020-43-38_1.MP4?raw=true" type="video/mp4">
+  <source src="https://github.com/saumilthecode/writeup-of-sorts-greyhats-2025/raw/main/Tung%20Tung%20Tung%20Sahur/ScreenRecording_04-08-2025%2020-43-38_1.MP4?" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
