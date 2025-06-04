@@ -18,6 +18,9 @@ writeups for
 [layer-cake
 ](https://github.com/saumilthecode/writeup-of-sorts-greyhats-2025/blob/main/layer-cake/readme.md)
 
+[Sanity Check
+](https://github.com/saumilthecode/writeup-of-sorts-greyhats-2025/blob/main/Sanity%20Check/readme.md)
+
 tanks for reading
 
 ![](https://raw.githubusercontent.com/saumilthecode/writeup-of-sorts-greyhats-2025/refs/heads/main/Idk/cat.webp)
