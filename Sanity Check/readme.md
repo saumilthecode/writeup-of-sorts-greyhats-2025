@@ -1,4 +1,5 @@
 # ⚠️ Warning, this is the hardest challenge in the ENTIRETY of this CTF some terms i may use in this writeup may be unfamiliar ⚠️
+key thinking ideas: #ceasire shaft
 
 So firstly, what is Sanity Check?
 
@@ -40,4 +41,5 @@ Ahaha! the flag albsy{q0fw7g0_9_al0synd_9792_zvww80vyww8}
 ![](https://github.com/saumilthecode/writeup-of-sorts-greyhats-2025/blob/main/Sanity%20Check/SCR-20250604-iqnp.png?raw=true)
 
 and its probhably correct since the ctf platform says You already solved this :D
+![](https://github.com/saumilthecode/writeup-of-sorts-greyhats-2025/blob/main/Sanity%20Check/download.jpeg?raw=true)
 
