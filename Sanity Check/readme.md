@@ -30,5 +30,12 @@ we end up with
 > 
 > Pryjfq qeb cixd ql dbq pqxoqba: dobv{t0iz7j0_9_do0vzqc_9792_cxyy80ybzz8}
 
-So t
+So we must clearly be dealing with some form of manipulation as there is a flag!
+
+So lets feed it to chatgpt and see what it says!
+![](https://github.com/saumilthecode/writeup-of-sorts-greyhats-2025/blob/main/Sanity%20Check/SCR-20250604-iplc.png?raw=true)
+
+Ahaha! the flag albsy{q0fw7g0_9_al0synd_9792_zvww80vyww8}
+
+and its probhably correct since the ctf platform says You already solved this :D
 
