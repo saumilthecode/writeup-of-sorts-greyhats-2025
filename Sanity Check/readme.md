@@ -37,5 +37,7 @@ So lets feed it to chatgpt and see what it says!
 
 Ahaha! the flag albsy{q0fw7g0_9_al0synd_9792_zvww80vyww8}
 
+![](https://github.com/saumilthecode/writeup-of-sorts-greyhats-2025/blob/main/Sanity%20Check/SCR-20250604-iqnp.png?raw=true)
+
 and its probhably correct since the ctf platform says You already solved this :D
 
